@@ -19,12 +19,10 @@
     <dependency>
       <groupId>com.test</groupId>
       <artifactId>Ticket-model</artifactId>
-      <version>1.0-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>com.test</groupId>
       <artifactId>Ticket-business</artifactId>
-      <version>1.0-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
